@@ -1,4 +1,4 @@
-# Project Title
+# Cyclops: Binding a Vehicle’s Digital Identity to its Physical Trajectory using Monocular Cameras
 
 ## Description
 
