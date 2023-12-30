@@ -1,0 +1,7 @@
+src/archive/
+src/data/paper
+src/data/experiments
+*.pkl
+*.png
+*.pyc
+*.csv
